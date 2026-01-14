@@ -6,4 +6,4 @@ MetaTrader5
 yfinance
 statsmodels
 pytz
-tvDatafeed
+git+https://github.com/MainakRepositor/tvdatafeed.git
